@@ -1,3 +1,4 @@
 second file
 I'm making changes in second file in FORK 
+Hello testing conflict
 
