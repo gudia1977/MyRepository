@@ -1,4 +1,6 @@
 second file
 I'm making changes in second file in FORK
 conflict from branch
+I'm making changes in second file in FORK 
+Hello testing conflict
 
